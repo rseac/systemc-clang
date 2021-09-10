@@ -14,7 +14,7 @@ var searchData=
   ['newfrontendactionfactory_11',['newFrontendActionFactory',['../namespacesystemc__hdl.html#adb69ff84f21d2bc43a8ae0f151b6979f',1,'systemc_hdl']]],
   ['newn_12',['newn',['../structhnode_1_1names__t.html#afc0e10eb6caf6805206423e99b2a8650',1,'hnode::names_t']]],
   ['newname_13',['newname',['../classhnode_1_1name__serve.html#a12adbb0b4092be756869424f71db9408',1,'hnode::name_serve']]],
-  ['newname_5fmap_5ft_14',['newname_map_t',['../classhnode_1_1newname__map__t.html',1,'hnode::newname_map_t&lt; T &gt;'],['../classhnode_1_1newname__map__t.html#adbb8484b7469c2c9a604a3c777b102b6',1,'hnode::newname_map_t::newname_map_t()']]],
+  ['newname_5fmap_5ft_14',['newname_map_t',['../classhnode_1_1newname__map__t.html',1,'hnode::newname_map_t&lt; T &gt;'],['../classhnode_1_1newname__map__t.html#abd2541c3d6364bba8d6228aff5723e09',1,'hnode::newname_map_t::newname_map_t()']]],
   ['next_5fstate_5f_15',['next_state_',['../classsystemc__clang_1_1SplitCFGBlock.html#abc0367134fc9022762180d095b69878e',1,'systemc_clang::SplitCFGBlock']]],
   ['next_5fstate_5fcount_5f_16',['next_state_count_',['../classsystemc__clang_1_1SplitCFG.html#a00ed4b691aec8b1ac5ab9dc7cb12e153',1,'systemc_clang::SplitCFG']]],
   ['node_17',['Node',['../classsystemc__clang_1_1Node.html#ad7a34779cad45d997bfd6d3d8043c75f',1,'systemc_clang::Node::Node()'],['../classsystemc__clang_1_1Node.html#aff71d952af8363f046a67a8b12194e46',1,'systemc_clang::Node::Node(int)'],['../classparselib_1_1transforms_1_1node_1_1Node.html',1,'parselib.transforms.node.Node'],['../classsystemc__clang_1_1Node.html',1,'systemc_clang::Node']]],

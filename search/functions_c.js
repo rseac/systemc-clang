@@ -5,7 +5,7 @@ var searchData=
   ['new_5fphantom_5fvar_5fname_2',['new_phantom_var_name',['../classparselib_1_1transforms_1_1function__info__pass_1_1FunctionInfoPass2.html#a4c25add5d1b30d9ed99781e984c9c6e1',1,'parselib::transforms::function_info_pass::FunctionInfoPass2']]],
   ['newfrontendactionfactory_3',['newFrontendActionFactory',['../namespacesystemc__hdl.html#adb69ff84f21d2bc43a8ae0f151b6979f',1,'systemc_hdl']]],
   ['newname_4',['newname',['../classhnode_1_1name__serve.html#a12adbb0b4092be756869424f71db9408',1,'hnode::name_serve']]],
-  ['newname_5fmap_5ft_5',['newname_map_t',['../classhnode_1_1newname__map__t.html#adbb8484b7469c2c9a604a3c777b102b6',1,'hnode::newname_map_t']]],
+  ['newname_5fmap_5ft_5',['newname_map_t',['../classhnode_1_1newname__map__t.html#abd2541c3d6364bba8d6228aff5723e09',1,'hnode::newname_map_t']]],
   ['node_6',['Node',['../classsystemc__clang_1_1Node.html#ad7a34779cad45d997bfd6d3d8043c75f',1,'systemc_clang::Node::Node()'],['../classsystemc__clang_1_1Node.html#aff71d952af8363f046a67a8b12194e46',1,'systemc_clang::Node::Node(int)']]],
   ['nonrefexp_7',['nonrefexp',['../classparselib_1_1transforms_1_1verilog__tranlation_1_1VerilogTranslationPass.html#a9c8ccb6656571047027033fceb7db634',1,'parselib::transforms::verilog_tranlation::VerilogTranslationPass']]],
   ['normalizehcode_8',['NormalizeHcode',['../classsystemc__hdl_1_1HDLBody.html#ab94ba57fe3e7aed9d56f89604a94a4ac',1,'systemc_hdl::HDLBody']]],
