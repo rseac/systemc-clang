@@ -28,6 +28,10 @@ public:
   virtual bool VisitMemberExpr(MemberExpr *e);
   bool shouldVisitTemplateInstantiations() const;
 
+  void setProcessType(std::string name, clang::MemberExpr* e);
+  void FindProcess(const clang::CXXMemberCallExpr *cxx_me);
+  void FindReset(const clang::CXXMemberCallExpr *cxx_me);
+
   // Access Methods
   CXXRecordDecl *getEntryCXXRecordDecl();
   CXXMethodDecl *getEntryMethodDecl();
