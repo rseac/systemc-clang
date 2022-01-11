@@ -35,6 +35,5 @@ var searchData=
   ['dumpsplitelements_32',['dumpSplitElements',['../classsystemc__clang_1_1SplitCFG.html#af6059cc388e3f04a7d6c553bfb4a721a',1,'systemc_clang::SplitCFG']]],
   ['dumpsuscfg_33',['dumpSusCFG',['../classsystemc__clang_1_1EntryFunctionContainer.html#aaa5b08b85c3dc3995a690541eaf6be37',1,'systemc_clang::EntryFunctionContainer::dumpSusCFG()'],['../classsystemc__clang_1_1SuspensionAutomata.html#a1f298debb460163f644b56f8aea50a66',1,'systemc_clang::SuspensionAutomata::dumpSusCFG()']]],
   ['dumptodot_34',['dumpToDot',['../classsystemc__clang_1_1SplitCFG.html#af1477068f46a719e0a027d29bb010ea7',1,'systemc_clang::SplitCFG']]],
-  ['dumpvisitstack_35',['dumpVisitStack',['../classsystemc__clang_1_1SplitCFG.html#af6697ce0a3692be74d45890fc2cb6805',1,'systemc_clang::SplitCFG']]],
-  ['dumpwaitnextstates_36',['dumpWaitNextStates',['../classsystemc__clang_1_1SplitCFG.html#a27555737f1df10e878af16a0195cf9c7',1,'systemc_clang::SplitCFG']]]
+  ['dumpwaitnextstates_35',['dumpWaitNextStates',['../classsystemc__clang_1_1SplitCFG.html#a27555737f1df10e878af16a0195cf9c7',1,'systemc_clang::SplitCFG']]]
 ];
