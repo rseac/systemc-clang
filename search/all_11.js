@@ -89,7 +89,7 @@ var searchData=
   ['simulation_5ftime_5f_86',['simulation_time_',['../classsystemc__clang_1_1Model.html#aba295d5c65270b693dcac7320e6815a5',1,'systemc_clang::Model::simulation_time_()'],['../classsystemc__clang_1_1FindSimTime.html#ab11f4f33eae3f1b17de80a2b8f506c84',1,'systemc_clang::FindSimTime::simulation_time_()']]],
   ['simulationtimemaptype_87',['simulationTimeMapType',['../classsystemc__clang_1_1FindSimTime.html#a825b0d05702c9257ea2e4b7abf29b1a6',1,'systemc_clang::FindSimTime']]],
   ['simulationtimepairtype_88',['simulationTimePairType',['../classsystemc__clang_1_1FindSimTime.html#a30ac43e1375ecb5fae8c458752de70b4',1,'systemc_clang::FindSimTime']]],
-  ['size_89',['size',['../classhnode_1_1hNode.html#a8096c4b11f8fb91cfc08b7b3af92d2be',1,'hnode::hNode::size()'],['../classhnode_1_1newname__map__t.html#a5ab10a8703c2a79cbe2cfe9d22542f4e',1,'hnode::newname_map_t::size()'],['../classsystemc__clang_1_1Tree.html#a09b70ee861ad8249595e3addb2110e74',1,'systemc_clang::Tree::size()']]],
+  ['size_89',['size',['../classsystemc__clang_1_1Tree.html#a09b70ee861ad8249595e3addb2110e74',1,'systemc_clang::Tree::size()'],['../classhnode_1_1hNode.html#a8096c4b11f8fb91cfc08b7b3af92d2be',1,'hnode::hNode::size()'],['../classhnode_1_1newname__map__t.html#a5ab10a8703c2a79cbe2cfe9d22542f4e',1,'hnode::newname_map_t::size()']]],
   ['slice_5fmerge_2epy_90',['slice_merge.py',['../slice__merge_8py.html',1,'']]],
   ['slicemerge_91',['SliceMerge',['../classparselib_1_1transforms_1_1slice__merge_1_1SliceMerge.html',1,'parselib::transforms::slice_merge']]],
   ['sm_5f_92',['sm_',['../classsystemc__clang_1_1SystemCConsumer.html#a22da7bc944c40b4a978f3a62c1b64df6',1,'systemc_clang::SystemCConsumer']]],
