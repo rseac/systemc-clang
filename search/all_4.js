@@ -34,8 +34,10 @@ var searchData=
   ['dumpsccfg_31',['dumpSCCFG',['../classsystemc__clang_1_1SplitCFG.html#ae6768fec29391732bfbe2acbf070baaa',1,'systemc_clang::SplitCFG']]],
   ['dumpsignalbinding_32',['dumpSignalBinding',['../classsystemc__clang_1_1ModuleInstance.html#a9421b2281821afa23a06241309075ba2',1,'systemc_clang::ModuleInstance']]],
   ['dumpsignals_33',['dumpSignals',['../classsystemc__clang_1_1ModuleInstance.html#a2cf65f222236e6c62af42c53346cb4e8',1,'systemc_clang::ModuleInstance']]],
-  ['dumpsplitelements_34',['dumpSplitElements',['../classsystemc__clang_1_1SplitCFG.html#af6059cc388e3f04a7d6c553bfb4a721a',1,'systemc_clang::SplitCFG']]],
-  ['dumpsuscfg_35',['dumpSusCFG',['../classsystemc__clang_1_1EntryFunctionContainer.html#aaa5b08b85c3dc3995a690541eaf6be37',1,'systemc_clang::EntryFunctionContainer::dumpSusCFG()'],['../classsystemc__clang_1_1SuspensionAutomata.html#a1f298debb460163f644b56f8aea50a66',1,'systemc_clang::SuspensionAutomata::dumpSusCFG()']]],
-  ['dumptodot_36',['dumpToDot',['../classsystemc__clang_1_1SplitCFG.html#af1477068f46a719e0a027d29bb010ea7',1,'systemc_clang::SplitCFG']]],
-  ['dumpwaitnextstates_37',['dumpWaitNextStates',['../classsystemc__clang_1_1SplitCFG.html#a27555737f1df10e878af16a0195cf9c7',1,'systemc_clang::SplitCFG']]]
+  ['dumpsmallvector_34',['dumpSmallVector',['../classsystemc__clang_1_1SplitCFG.html#a3fefd47a86e43cf5c21d8cf1035c5309',1,'systemc_clang::SplitCFG']]],
+  ['dumpsplitelements_35',['dumpSplitElements',['../classsystemc__clang_1_1SplitCFG.html#af6059cc388e3f04a7d6c553bfb4a721a',1,'systemc_clang::SplitCFG']]],
+  ['dumpsuscfg_36',['dumpSusCFG',['../classsystemc__clang_1_1EntryFunctionContainer.html#aaa5b08b85c3dc3995a690541eaf6be37',1,'systemc_clang::EntryFunctionContainer::dumpSusCFG()'],['../classsystemc__clang_1_1SuspensionAutomata.html#a1f298debb460163f644b56f8aea50a66',1,'systemc_clang::SuspensionAutomata::dumpSusCFG()']]],
+  ['dumptodot_37',['dumpToDot',['../classsystemc__clang_1_1SplitCFG.html#af1477068f46a719e0a027d29bb010ea7',1,'systemc_clang::SplitCFG']]],
+  ['dumpvisitedblocks_38',['dumpVisitedBlocks',['../classsystemc__clang_1_1SplitCFG.html#ae386e44e8cc5e4f9a15237c3211def97',1,'systemc_clang::SplitCFG']]],
+  ['dumpwaitnextstates_39',['dumpWaitNextStates',['../classsystemc__clang_1_1SplitCFG.html#a27555737f1df10e878af16a0195cf9c7',1,'systemc_clang::SplitCFG']]]
 ];
