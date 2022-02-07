@@ -171,7 +171,7 @@ var searchData=
   ['getparentcfgblock_168',['getParentCFGBlock',['../classsystemc__clang_1_1SusCFG.html#a6566e476db1533a07d8743c2edc91626',1,'systemc_clang::SusCFG']]],
   ['getparentdecl_169',['getParentDecl',['../structsc__ast__matchers_1_1ModuleInstanceType.html#a324d09869eef75753463a529e32d6929',1,'sc_ast_matchers::ModuleInstanceType']]],
   ['getparentsuscfgblock_170',['getParentSusCFGBlock',['../classsystemc__clang_1_1SusCFG.html#a62f906a5658d0a1eea0c3af5900a60cf',1,'systemc_clang::SusCFG']]],
-  ['getpathsfound_171',['getPathsFound',['../classsystemc__clang_1_1SplitCFG.html#a57d9bc8a9a8ac03d47f83d2f2fba6007',1,'systemc_clang::SplitCFG']]],
+  ['getpathsfound_171',['getPathsFound',['../classsystemc__clang_1_1SplitCFG.html#a23b44b3b28c3a42c13267681e454048b',1,'systemc_clang::SplitCFG']]],
   ['getportbindings_172',['getPortBindings',['../classsystemc__clang_1_1ModuleInstance.html#a73b6367395708b4e5bc1383c9b450900',1,'systemc_clang::ModuleInstance']]],
   ['getportname_173',['getPortName',['../classsystemc__clang_1_1PortBinding.html#a13f4df2268461d2eb2923c81d7fb3cb6',1,'systemc_clang::PortBinding']]],
   ['getports_174',['getPorts',['../classsc__ast__matchers_1_1PortMatcher.html#a001d61bbd199579a5320475576cf11c8',1,'sc_ast_matchers::PortMatcher']]],
