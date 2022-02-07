@@ -4,7 +4,7 @@ var searchData=
   ['denygpufit_1',['denyGPUFit',['../classsystemc__clang_1_1GPUMacro.html#adf2128a246b24e13330e59f99db46ff9',1,'systemc_clang::GPUMacro::denyGPUFit()'],['../classsystemc__clang_1_1SusCFG.html#a869d7b42e192a9ba85218da99f67b78d',1,'systemc_clang::SusCFG::denyGPUFit()']]],
   ['dfs_5fpop_5fon_5fwait_2',['dfs_pop_on_wait',['../classsystemc__clang_1_1SplitCFG.html#a1611912f3bab51ce68daf1352300b3df',1,'systemc_clang::SplitCFG']]],
   ['dfs_5frework_3',['dfs_rework',['../classsystemc__clang_1_1SplitCFG.html#aedfc62cba95fb666a81dee59092a4fed',1,'systemc_clang::SplitCFG']]],
-  ['dfs_5fvisit_5fwait_4',['dfs_visit_wait',['../classsystemc__clang_1_1SplitCFG.html#a67fa2581edf57ea3b2ca44f339ce438f',1,'systemc_clang::SplitCFG']]],
+  ['dfs_5fvisit_5fwait_4',['dfs_visit_wait',['../classsystemc__clang_1_1SplitCFG.html#a556a82be566a64f381759e8ab89d9f49',1,'systemc_clang::SplitCFG']]],
   ['dft_5',['dft',['../classsystemc__clang_1_1Tree.html#af5c954e8ea0f3c1adff0138b58dd1de2',1,'systemc_clang::Tree']]],
   ['dft_5fiterator_6',['dft_iterator',['../classsystemc__clang_1_1Tree_1_1dft__iterator.html#acc4da424116b7d12233526d4c5a921bc',1,'systemc_clang::Tree::dft_iterator']]],
   ['dostmt_7',['dostmt',['../classparselib_1_1transforms_1_1verilog__tranlation_1_1VerilogTranslationPass.html#ab0950a2905c248d62ef2fafa34e1a2aa',1,'parselib::transforms::verilog_tranlation::VerilogTranslationPass']]],
