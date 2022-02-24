@@ -36,6 +36,7 @@ var searchData=
   ['is_5fconditional_5f_33',['is_conditional_',['../classsystemc__clang_1_1SplitCFGBlock.html#ab5213c2a56b3dfda38fab7c6ba7fc770',1,'systemc_clang::SplitCFGBlock']]],
   ['is_5fentry_5ffunction_5f_34',['is_entry_function_',['../classsystemc__clang_1_1FindEntryFunctions.html#ab67becfe5748fc2b42e23a2a739bc77a',1,'systemc_clang::FindEntryFunctions']]],
   ['is_5ffield_5fdecl_35',['is_field_decl',['../structsc__ast__matchers_1_1ModuleInstanceType.html#ace8d813116395be7de22d9d492283a69',1,'sc_ast_matchers::ModuleInstanceType']]],
-  ['is_5fport_5fbinding_36',['is_port_binding',['../classparselib_1_1transforms_1_1literal__expansion_1_1LiteralExpansion.html#aaf3383774c18184d2c30bced2a7703dc',1,'parselib::transforms::literal_expansion::LiteralExpansion']]],
-  ['istreamports_5f_37',['istreamports_',['../classsystemc__clang_1_1ModuleInstance.html#a8c5265bd212698e526e5a8194d75d7d0',1,'systemc_clang::ModuleInstance']]]
+  ['is_5floop_5fwith_5ftwo_5fsucc_5f_36',['is_loop_with_two_succ_',['../classsystemc__clang_1_1SplitCFGBlock.html#a786da84150c6656defb973fe5703ee44',1,'systemc_clang::SplitCFGBlock']]],
+  ['is_5fport_5fbinding_37',['is_port_binding',['../classparselib_1_1transforms_1_1literal__expansion_1_1LiteralExpansion.html#aaf3383774c18184d2c30bced2a7703dc',1,'parselib::transforms::literal_expansion::LiteralExpansion']]],
+  ['istreamports_5f_38',['istreamports_',['../classsystemc__clang_1_1ModuleInstance.html#a8c5265bd212698e526e5a8194d75d7d0',1,'systemc_clang::ModuleInstance']]]
 ];

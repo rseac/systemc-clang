@@ -43,7 +43,7 @@ var searchData=
   ['isinstancefielddecl_40',['isInstanceFieldDecl',['../classsystemc__clang_1_1ModuleInstance.html#a818b944b81001e7f539752c129fcce00',1,'systemc_clang::ModuleInstance']]],
   ['islogicalop_41',['isLogicalOp',['../classsystemc__hdl_1_1HDLBody.html#a213d15671a95dcc8cb46eb663dc6a159',1,'systemc_hdl::HDLBody']]],
   ['isloop_42',['isLoop',['../classsystemc__clang_1_1SplitCFG.html#a7540b2cc0f97bf5d546aea9fcbfa6d8e',1,'systemc_clang::SplitCFG']]],
-  ['isloopwithtwosuccessors_43',['isLoopWithTwoSuccessors',['../classsystemc__clang_1_1SplitCFG.html#a9a95af2adbcdd9d375ea90a4131e10e2',1,'systemc_clang::SplitCFG']]],
+  ['isloopwithtwosuccessors_43',['isLoopWithTwoSuccessors',['../classsystemc__clang_1_1SplitCFG.html#a9a95af2adbcdd9d375ea90a4131e10e2',1,'systemc_clang::SplitCFG::isLoopWithTwoSuccessors()'],['../classsystemc__clang_1_1SplitCFGBlock.html#a73c9af1090827946f0f93d28f5ce1df4',1,'systemc_clang::SplitCFGBlock::isLoopWithTwoSuccessors()']]],
   ['ismoduleclassdeclnull_44',['isModuleClassDeclNull',['../classsystemc__clang_1_1ModuleInstance.html#a11105db597dade49f96e63917d8cc7ca',1,'systemc_clang::ModuleInstance']]],
   ['isnotifycall_45',['isNotifyCall',['../classsystemc__clang_1_1GlobalSuspensionAutomata.html#abfd7ca3cb24ae7dcaa50b204c5a61066',1,'systemc_clang::GlobalSuspensionAutomata']]],
   ['isparentblock_46',['isParentBlock',['../classsystemc__clang_1_1SusCFG.html#aa3949a664ee91427a318509c0bd718ec',1,'systemc_clang::SusCFG']]],
