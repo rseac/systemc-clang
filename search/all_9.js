@@ -124,8 +124,9 @@ var searchData=
   ['istimed_121',['isTimed',['../classsystemc__clang_1_1State.html#adcde585e5b1df5f64df6f0a194c901f7',1,'systemc_clang::State']]],
   ['istimedwait_122',['isTimedWait',['../classsystemc__clang_1_1SuspensionAutomata.html#a131b474cba796a5d5e13fb7574c236da',1,'systemc_clang::SuspensionAutomata']]],
   ['istreamports_5f_123',['istreamports_',['../classsystemc__clang_1_1ModuleInstance.html#a8c5265bd212698e526e5a8194d75d7d0',1,'systemc_clang::ModuleInstance']]],
-  ['iswaitblock_124',['isWaitBlock',['../classsystemc__clang_1_1SusCFG.html#a196e62967d4a2820873c7833b037d836',1,'systemc_clang::SusCFG']]],
-  ['iswaitcall_125',['isWaitCall',['../classsystemc__clang_1_1SuspensionAutomata.html#af045e731c974b5b321f0c808d2fa5773',1,'systemc_clang::SuspensionAutomata']]],
-  ['iswaitstmt_126',['IsWaitStmt',['../classsystemc__hdl_1_1HDLThread.html#ad28af83a8bd64cbd5e79bf1db4f417e2',1,'systemc_hdl::HDLThread']]],
-  ['iterator_5fcategory_127',['iterator_category',['../structsystemc__clang_1_1SplitCFGBlock_1_1SuccessorIterator.html#a2daf05f5672e47c000b8bb0468f2625c',1,'systemc_clang::SplitCFGBlock::SuccessorIterator']]]
+  ['istruepath_124',['isTruePath',['../classsystemc__clang_1_1SplitCFG.html#a63606435093652063e3d8da0bacb6f0f',1,'systemc_clang::SplitCFG']]],
+  ['iswaitblock_125',['isWaitBlock',['../classsystemc__clang_1_1SusCFG.html#a196e62967d4a2820873c7833b037d836',1,'systemc_clang::SusCFG']]],
+  ['iswaitcall_126',['isWaitCall',['../classsystemc__clang_1_1SuspensionAutomata.html#af045e731c974b5b321f0c808d2fa5773',1,'systemc_clang::SuspensionAutomata']]],
+  ['iswaitstmt_127',['IsWaitStmt',['../classsystemc__hdl_1_1HDLThread.html#ad28af83a8bd64cbd5e79bf1db4f417e2',1,'systemc_hdl::HDLThread']]],
+  ['iterator_5fcategory_128',['iterator_category',['../structsystemc__clang_1_1SplitCFGBlock_1_1SuccessorIterator.html#a2daf05f5672e47c000b8bb0468f2625c',1,'systemc_clang::SplitCFGBlock::SuccessorIterator']]]
 ];
