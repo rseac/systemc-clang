@@ -68,6 +68,7 @@ $(function() {
 </div><!-- top -->
 <div class="header">
   <div class="summary">
+<a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="#friends">Friends</a> &#124;
@@ -78,12 +79,25 @@ $(function() {
 
 <p><code>#include &lt;<a class="el" href="SplitCFG_8h_source.html">SplitCFG.h</a>&gt;</code></p>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
+Public Types</h2></td></tr>
+<tr class="memitem:a4030d2ebdfac304694b56f22f600bf0b"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classsystemc__clang_1_1SplitCFGPathInfo.html#a4030d2ebdfac304694b56f22f600bf0b">SplitCFGBlockPtrVector</a> = llvm::SmallVector&lt; const <a class="el" href="classsystemc__clang_1_1SplitCFGBlock.html">SplitCFGBlock</a> * &gt;</td></tr>
+<tr class="separator:a4030d2ebdfac304694b56f22f600bf0b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:aee108fc8738a253f7f54cbdb78f997e4"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classsystemc__clang_1_1SplitCFGPathInfo.html#aee108fc8738a253f7f54cbdb78f997e4">SplitCFGPathInfo</a> (const <a class="el" href="classsystemc__clang_1_1SplitCFGBlock.html">SplitCFGBlock</a> *block)</td></tr>
 <tr class="separator:aee108fc8738a253f7f54cbdb78f997e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af3ab69284214c106f745c5f4a9318e2a"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classsystemc__clang_1_1SplitCFGPathInfo.html#af3ab69284214c106f745c5f4a9318e2a">~SplitCFGPathInfo</a> ()</td></tr>
 <tr class="separator:af3ab69284214c106f745c5f4a9318e2a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abe2a39f9c28ff9e675eaf6e4a45281a2"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classsystemc__clang_1_1SplitCFGPathInfo.html#abe2a39f9c28ff9e675eaf6e4a45281a2">isTruePathValid</a> () const</td></tr>
+<tr class="separator:abe2a39f9c28ff9e675eaf6e4a45281a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4f1e630675ec488f5b4319a6106dbcc9"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classsystemc__clang_1_1SplitCFGPathInfo.html#a4f1e630675ec488f5b4319a6106dbcc9">isFalsePathValid</a> () const</td></tr>
+<tr class="separator:a4f1e630675ec488f5b4319a6106dbcc9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a71ffcfeba6ed5ed450bf5eef4182d9d6"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="classsystemc__clang_1_1SplitCFGPathInfo.html#a4030d2ebdfac304694b56f22f600bf0b">SplitCFGBlockPtrVector</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classsystemc__clang_1_1SplitCFGPathInfo.html#a71ffcfeba6ed5ed450bf5eef4182d9d6">getTruePath</a> () const</td></tr>
+<tr class="separator:a71ffcfeba6ed5ed450bf5eef4182d9d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5fac27cb9292450b70d01a9c52d820f8"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="classsystemc__clang_1_1SplitCFGPathInfo.html#a4030d2ebdfac304694b56f22f600bf0b">SplitCFGBlockPtrVector</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classsystemc__clang_1_1SplitCFGPathInfo.html#a5fac27cb9292450b70d01a9c52d820f8">getFalsePath</a> () const</td></tr>
+<tr class="separator:a5fac27cb9292450b70d01a9c52d820f8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0e6771b362e8d03305f72b878d14e47e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classsystemc__clang_1_1SplitCFGPathInfo.html#a0e6771b362e8d03305f72b878d14e47e">dump</a> ()</td></tr>
 <tr class="separator:a0e6771b362e8d03305f72b878d14e47e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -91,10 +105,10 @@ Public Member Functions</h2></td></tr>
 Private Attributes</h2></td></tr>
 <tr class="memitem:a85c6b9af2e56c4cacb6d9b1ad2e87cd9"><td class="memItemLeft" align="right" valign="top">const clang::CFGBlock *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classsystemc__clang_1_1SplitCFGPathInfo.html#a85c6b9af2e56c4cacb6d9b1ad2e87cd9">cfg_block_</a></td></tr>
 <tr class="separator:a85c6b9af2e56c4cacb6d9b1ad2e87cd9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a55a555fbfa51c2b157fc7bed989b7302"><td class="memItemLeft" align="right" valign="top">llvm::SmallVector&lt; const <a class="el" href="classsystemc__clang_1_1SplitCFGBlock.html">SplitCFGBlock</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classsystemc__clang_1_1SplitCFGPathInfo.html#a55a555fbfa51c2b157fc7bed989b7302">true_path_</a></td></tr>
-<tr class="separator:a55a555fbfa51c2b157fc7bed989b7302"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acf305df01f261534caeb4e56f1218726"><td class="memItemLeft" align="right" valign="top">llvm::SmallVector&lt; const <a class="el" href="classsystemc__clang_1_1SplitCFGBlock.html">SplitCFGBlock</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classsystemc__clang_1_1SplitCFGPathInfo.html#acf305df01f261534caeb4e56f1218726">false_path_</a></td></tr>
-<tr class="separator:acf305df01f261534caeb4e56f1218726"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a04292b20222d153484b04c115ea4fc73"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classsystemc__clang_1_1SplitCFGPathInfo.html#a4030d2ebdfac304694b56f22f600bf0b">SplitCFGBlockPtrVector</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classsystemc__clang_1_1SplitCFGPathInfo.html#a04292b20222d153484b04c115ea4fc73">true_path_</a></td></tr>
+<tr class="separator:a04292b20222d153484b04c115ea4fc73"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a23a2d07bddd11534dbd89c869790cf35"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classsystemc__clang_1_1SplitCFGPathInfo.html#a4030d2ebdfac304694b56f22f600bf0b">SplitCFGBlockPtrVector</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classsystemc__clang_1_1SplitCFGPathInfo.html#a23a2d07bddd11534dbd89c869790cf35">false_path_</a></td></tr>
+<tr class="separator:a23a2d07bddd11534dbd89c869790cf35"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="friends" name="friends"></a>
 Friends</h2></td></tr>
@@ -105,7 +119,24 @@ Friends</h2></td></tr>
 <div class="textblock"><p >=========================================== </p><h1><a class="el" href="classsystemc__clang_1_1SplitCFGPathInfo.html">SplitCFGPathInfo</a> </h1>
 
 <p class="definition">Definition at line <a class="el" href="SplitCFG_8h_source.html#l00018">18</a> of file <a class="el" href="SplitCFG_8h_source.html">SplitCFG.h</a>.</p>
-</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+</div><h2 class="groupheader">Member Typedef Documentation</h2>
+<a id="a4030d2ebdfac304694b56f22f600bf0b" name="a4030d2ebdfac304694b56f22f600bf0b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4030d2ebdfac304694b56f22f600bf0b">&#9670;&nbsp;</a></span>SplitCFGBlockPtrVector</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="classsystemc__clang_1_1SplitCFGPathInfo.html#a4030d2ebdfac304694b56f22f600bf0b">systemc_clang::SplitCFGPathInfo::SplitCFGBlockPtrVector</a> =  llvm::SmallVector&lt;const <a class="el" href="classsystemc__clang_1_1SplitCFGBlock.html">SplitCFGBlock</a> *&gt;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="SplitCFG_8h_source.html#l00020">20</a> of file <a class="el" href="SplitCFG_8h_source.html">SplitCFG.h</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="aee108fc8738a253f7f54cbdb78f997e4" name="aee108fc8738a253f7f54cbdb78f997e4"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#aee108fc8738a253f7f54cbdb78f997e4">&#9670;&nbsp;</a></span>SplitCFGPathInfo()</h2>
 
@@ -130,7 +161,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="SplitCFG_8h_source.html#l00021">21</a> of file <a class="el" href="SplitCFG_8h_source.html">SplitCFG.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="SplitCFG_8h_source.html#l00024">24</a> of file <a class="el" href="SplitCFG_8h_source.html">SplitCFG.h</a>.</p>
 
 </div>
 </div>
@@ -157,7 +188,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="SplitCFG_8h_source.html#l00024">24</a> of file <a class="el" href="SplitCFG_8h_source.html">SplitCFG.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="SplitCFG_8h_source.html#l00027">27</a> of file <a class="el" href="SplitCFG_8h_source.html">SplitCFG.h</a>.</p>
 
 </div>
 </div>
@@ -185,7 +216,115 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="SplitCFG_8h_source.html#l00026">26</a> of file <a class="el" href="SplitCFG_8h_source.html">SplitCFG.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="SplitCFG_8h_source.html#l00040">40</a> of file <a class="el" href="SplitCFG_8h_source.html">SplitCFG.h</a>.</p>
+
+</div>
+</div>
+<a id="a5fac27cb9292450b70d01a9c52d820f8" name="a5fac27cb9292450b70d01a9c52d820f8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5fac27cb9292450b70d01a9c52d820f8">&#9670;&nbsp;</a></span>getFalsePath()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">const <a class="el" href="classsystemc__clang_1_1SplitCFGPathInfo.html#a4030d2ebdfac304694b56f22f600bf0b">SplitCFGBlockPtrVector</a> &amp; systemc_clang::SplitCFGPathInfo::getFalsePath </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="SplitCFG_8h_source.html#l00038">38</a> of file <a class="el" href="SplitCFG_8h_source.html">SplitCFG.h</a>.</p>
+
+</div>
+</div>
+<a id="a71ffcfeba6ed5ed450bf5eef4182d9d6" name="a71ffcfeba6ed5ed450bf5eef4182d9d6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a71ffcfeba6ed5ed450bf5eef4182d9d6">&#9670;&nbsp;</a></span>getTruePath()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">const <a class="el" href="classsystemc__clang_1_1SplitCFGPathInfo.html#a4030d2ebdfac304694b56f22f600bf0b">SplitCFGBlockPtrVector</a> &amp; systemc_clang::SplitCFGPathInfo::getTruePath </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="SplitCFG_8h_source.html#l00037">37</a> of file <a class="el" href="SplitCFG_8h_source.html">SplitCFG.h</a>.</p>
+
+</div>
+</div>
+<a id="a4f1e630675ec488f5b4319a6106dbcc9" name="a4f1e630675ec488f5b4319a6106dbcc9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4f1e630675ec488f5b4319a6106dbcc9">&#9670;&nbsp;</a></span>isFalsePathValid()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool systemc_clang::SplitCFGPathInfo::isFalsePathValid </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="SplitCFG_8h_source.html#l00033">33</a> of file <a class="el" href="SplitCFG_8h_source.html">SplitCFG.h</a>.</p>
+
+</div>
+</div>
+<a id="abe2a39f9c28ff9e675eaf6e4a45281a2" name="abe2a39f9c28ff9e675eaf6e4a45281a2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abe2a39f9c28ff9e675eaf6e4a45281a2">&#9670;&nbsp;</a></span>isTruePathValid()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool systemc_clang::SplitCFGPathInfo::isTruePathValid </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="SplitCFG_8h_source.html#l00029">29</a> of file <a class="el" href="SplitCFG_8h_source.html">SplitCFG.h</a>.</p>
 
 </div>
 </div>
@@ -210,7 +349,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="SplitCFG_8h_source.html#l00020">20</a> of file <a class="el" href="SplitCFG_8h_source.html">SplitCFG.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="SplitCFG_8h_source.html#l00021">21</a> of file <a class="el" href="SplitCFG_8h_source.html">SplitCFG.h</a>.</p>
 
 </div>
 </div>
@@ -235,12 +374,12 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="SplitCFG_8h_source.html#l00039">39</a> of file <a class="el" href="SplitCFG_8h_source.html">SplitCFG.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="SplitCFG_8h_source.html#l00053">53</a> of file <a class="el" href="SplitCFG_8h_source.html">SplitCFG.h</a>.</p>
 
 </div>
 </div>
-<a id="acf305df01f261534caeb4e56f1218726" name="acf305df01f261534caeb4e56f1218726"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acf305df01f261534caeb4e56f1218726">&#9670;&nbsp;</a></span>false_path_</h2>
+<a id="a23a2d07bddd11534dbd89c869790cf35" name="a23a2d07bddd11534dbd89c869790cf35"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a23a2d07bddd11534dbd89c869790cf35">&#9670;&nbsp;</a></span>false_path_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -249,7 +388,7 @@ Friends</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">llvm::SmallVector&lt;const <a class="el" href="classsystemc__clang_1_1SplitCFGBlock.html">SplitCFGBlock</a> *&gt; systemc_clang::SplitCFGPathInfo::false_path_</td>
+          <td class="memname"><a class="el" href="classsystemc__clang_1_1SplitCFGPathInfo.html#a4030d2ebdfac304694b56f22f600bf0b">SplitCFGBlockPtrVector</a> systemc_clang::SplitCFGPathInfo::false_path_</td>
         </tr>
       </table>
   </td>
@@ -259,12 +398,12 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="SplitCFG_8h_source.html#l00041">41</a> of file <a class="el" href="SplitCFG_8h_source.html">SplitCFG.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="SplitCFG_8h_source.html#l00055">55</a> of file <a class="el" href="SplitCFG_8h_source.html">SplitCFG.h</a>.</p>
 
 </div>
 </div>
-<a id="a55a555fbfa51c2b157fc7bed989b7302" name="a55a555fbfa51c2b157fc7bed989b7302"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a55a555fbfa51c2b157fc7bed989b7302">&#9670;&nbsp;</a></span>true_path_</h2>
+<a id="a04292b20222d153484b04c115ea4fc73" name="a04292b20222d153484b04c115ea4fc73"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a04292b20222d153484b04c115ea4fc73">&#9670;&nbsp;</a></span>true_path_</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -273,7 +412,7 @@ Friends</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">llvm::SmallVector&lt;const <a class="el" href="classsystemc__clang_1_1SplitCFGBlock.html">SplitCFGBlock</a> *&gt; systemc_clang::SplitCFGPathInfo::true_path_</td>
+          <td class="memname"><a class="el" href="classsystemc__clang_1_1SplitCFGPathInfo.html#a4030d2ebdfac304694b56f22f600bf0b">SplitCFGBlockPtrVector</a> systemc_clang::SplitCFGPathInfo::true_path_</td>
         </tr>
       </table>
   </td>
@@ -283,7 +422,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="SplitCFG_8h_source.html#l00040">40</a> of file <a class="el" href="SplitCFG_8h_source.html">SplitCFG.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="SplitCFG_8h_source.html#l00054">54</a> of file <a class="el" href="SplitCFG_8h_source.html">SplitCFG.h</a>.</p>
 
 </div>
 </div>
