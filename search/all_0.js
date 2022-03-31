@@ -130,7 +130,7 @@ var searchData=
   ['_5fllvm_5finstall_5fpath_127',['_llvm_install_path',['../classsystemc-clang_1_1SystemCClang.html#ab6cec37133b8a50cc5c66247b98162d3',1,'systemc-clang::SystemCClang']]],
   ['_5fmoduleinstancemap_128',['_moduleInstanceMap',['../classsystemc__clang_1_1GlobalSuspensionAutomata.html#a02578ca27be242f0eaf48fbe37e36254',1,'systemc_clang::GlobalSuspensionAutomata']]],
   ['_5fmodulemap_129',['_moduleMap',['../classsystemc__clang_1_1FindSCModules.html#abe1efb24ef36d744b2b0747d5f513c74',1,'systemc_clang::FindSCModules']]],
-  ['_5fname_130',['_name',['../classsystemc__clang_1_1InterfaceDecl.html#a02e768f9c1cd819f6594b8c6d1dd7bea',1,'systemc_clang::InterfaceDecl::_name()'],['../classsystemc__clang_1_1WaitCalls.html#abaf0084647eaf7d47d8cb1eef48e9ab5',1,'systemc_clang::WaitCalls::_name()']]],
+  ['_5fname_130',['_name',['../classsystemc__clang_1_1InterfaceDecl.html#a02e768f9c1cd819f6594b8c6d1dd7bea',1,'systemc_clang::InterfaceDecl::_name()'],['../classsystemc__clang_1_1WaitCalls.html#af156d83dff7a2f621a621d86a04f0fcf',1,'systemc_clang::WaitCalls::_name()']]],
   ['_5fnedges_131',['_nEdges',['../classsystemc__clang_1_1Graph.html#acf09b64d745c09f15760a531faa322af',1,'systemc_clang::Graph']]],
   ['_5fnnodes_132',['_nNodes',['../classsystemc__clang_1_1Graph.html#a71e0b7e63897c0885beb33a17af84bb1',1,'systemc_clang::Graph']]],
   ['_5fnodeidvector_133',['_nodeIDVector',['../classsystemc__clang_1_1Graph.html#af13eb33fa96442fe8ccc096b8b082a91',1,'systemc_clang::Graph']]],
