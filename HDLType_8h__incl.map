@@ -1,52 +1,52 @@
 <map id="plugins/hdl/HDLType.h" name="plugins/hdl/HDLType.h">
-<area shape="rect" id="node1" title=" " alt="" coords="4011,5,4165,32"/>
-<area shape="rect" id="node2" href="$SystemCClang_8h.html" title=" " alt="" coords="2194,80,2313,107"/>
-<area shape="rect" id="node44" href="$Tree_8h.html" title=" " alt="" coords="3788,617,3847,644"/>
-<area shape="rect" id="node47" title=" " alt="" coords="4199,80,4249,107"/>
-<area shape="rect" id="node48" title=" " alt="" coords="4151,692,4262,719"/>
-<area shape="rect" id="node49" href="$hNode_8h.html" title=" " alt="" coords="4053,617,4123,644"/>
-<area shape="rect" id="node3" title=" " alt="" coords="2607,162,2790,189"/>
-<area shape="rect" id="node4" title=" " alt="" coords="880,692,1099,719"/>
-<area shape="rect" id="node5" title=" " alt="" coords="3485,767,3680,793"/>
-<area shape="rect" id="node6" title=" " alt="" coords="1685,162,1907,189"/>
-<area shape="rect" id="node7" title=" " alt="" coords="1931,155,2130,196"/>
-<area shape="rect" id="node8" title=" " alt="" coords="2153,155,2353,196"/>
-<area shape="rect" id="node9" title=" " alt="" coords="2377,162,2532,189"/>
-<area shape="rect" id="node10" href="$Model_8h.html" title=" " alt="" coords="1553,162,1660,189"/>
-<area shape="rect" id="node36" href="$Matchers_8h.html" title=" " alt="" coords="2513,244,2599,271"/>
-<area shape="rect" id="node43" href="$FindSCMain_8h.html" title=" " alt="" coords="145,617,306,644"/>
-<area shape="rect" id="node11" href="$EntryFunctionContainer_8h.html" title="A container class to hold entry function information." alt="" coords="1926,543,2093,569"/>
-<area shape="rect" id="node12" title=" " alt="" coords="2834,767,2881,793"/>
-<area shape="rect" id="node13" title=" " alt="" coords="2134,767,2189,793"/>
-<area shape="rect" id="node15" title=" " alt="" coords="386,767,537,793"/>
-<area shape="rect" id="node18" title=" " alt="" coords="3351,692,3409,719"/>
-<area shape="rect" id="node26" href="$EventContainer_8h.html" title="Container class to hold sc_event information." alt="" coords="1325,692,1445,719"/>
-<area shape="rect" id="node27" href="$FindGlobalEvents_8h.html" title=" " alt="" coords="2367,617,2502,644"/>
-<area shape="rect" id="node30" href="$FindNetlist_8h.html" title=" " alt="" coords="1037,617,1131,644"/>
-<area shape="rect" id="node31" href="$FindSimTime_8h.html" title=" " alt="" coords="1321,617,1431,644"/>
-<area shape="rect" id="node32" href="$ModuleInstance_8h.html" title=" " alt="" coords="2654,393,2778,420"/>
-<area shape="rect" id="node42" href="$FindGPUMacro_8h.html" title=" " alt="" coords="830,617,1013,644"/>
-<area shape="rect" id="node14" href="$FindNotify_8h.html" title=" " alt="" coords="1207,617,1297,644"/>
-<area shape="rect" id="node17" href="$SensitivityMatcher_8h.html" title=" " alt="" coords="2964,617,3103,644"/>
-<area shape="rect" id="node20" href="$FindWait_8h.html" title=" " alt="" coords="1657,617,1740,644"/>
-<area shape="rect" id="node21" href="$WaitContainer_8h.html" title=" " alt="" coords="1470,692,1583,719"/>
-<area shape="rect" id="node23" href="$NotifyContainer_8h.html" title=" " alt="" coords="1901,692,2022,719"/>
-<area shape="rect" id="node24" href="$SuspensionAutomata_8h.html" title=" " alt="" coords="1815,617,1971,644"/>
-<area shape="rect" id="node25" href="$Utility_8h.html" title="A set of utility functions in the Utility class." alt="" coords="1607,692,1673,719"/>
-<area shape="rect" id="node16" title=" " alt="" coords="1293,767,1477,793"/>
-<area shape="rect" id="node19" title=" " alt="" coords="3045,692,3275,719"/>
-<area shape="rect" id="node22" title=" " alt="" coords="1529,767,1698,793"/>
-<area shape="rect" id="node28" href="$systemc-clang_8h.html" title=" " alt="" coords="2554,692,2670,719"/>
-<area shape="rect" id="node29" title=" " alt="" coords="2745,692,2868,719"/>
-<area shape="rect" id="node33" href="$FindConstructor_8h.html" title=" " alt="" coords="2003,468,2127,495"/>
-<area shape="rect" id="node34" href="$FindEntryFunctions_8h.html" title=" " alt="" coords="2754,468,2897,495"/>
-<area shape="rect" id="node35" href="$FindTLMInterfaces_8h.html" title=" " alt="" coords="2594,543,2737,569"/>
-<area shape="rect" id="node37" href="$InstanceMatcher_8h.html" title=" " alt="" coords="3178,617,3307,644"/>
-<area shape="rect" id="node38" href="$CXXRecordDeclUtils_8h.html" title=" " alt="" coords="550,692,703,719"/>
-<area shape="rect" id="node39" href="$PortMatcher_8h.html" title=" " alt="" coords="3029,319,3131,345"/>
-<area shape="rect" id="node40" href="$FindEvents_8h.html" title=" " alt="" coords="2214,617,2311,644"/>
-<area shape="rect" id="node41" href="$FindTemplateParameters_8h.html" title=" " alt="" coords="2527,617,2705,644"/>
-<area shape="rect" id="node45" title=" " alt="" coords="3789,692,3846,719"/>
-<area shape="rect" id="node46" title=" " alt="" coords="3922,692,3977,719"/>
-<area shape="rect" id="node50" title=" " alt="" coords="4052,692,4127,719"/>
+<area shape="rect" id="node1" title=" " alt="" coords="3313,5,3466,32"/>
+<area shape="rect" id="node2" href="$SystemCClang_8h.html" title=" " alt="" coords="1871,80,1990,107"/>
+<area shape="rect" id="node44" href="$Tree_8h.html" title=" " alt="" coords="3112,617,3171,644"/>
+<area shape="rect" id="node47" title=" " alt="" coords="3500,80,3551,107"/>
+<area shape="rect" id="node48" title=" " alt="" coords="3526,692,3637,719"/>
+<area shape="rect" id="node49" href="$hNode_8h.html" title=" " alt="" coords="3354,617,3425,644"/>
+<area shape="rect" id="node3" title=" " alt="" coords="1327,162,1510,189"/>
+<area shape="rect" id="node4" title=" " alt="" coords="561,692,780,719"/>
+<area shape="rect" id="node5" title=" " alt="" coords="3016,767,3211,793"/>
+<area shape="rect" id="node6" title=" " alt="" coords="1585,162,1807,189"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1831,155,2030,196"/>
+<area shape="rect" id="node8" title=" " alt="" coords="2053,155,2253,196"/>
+<area shape="rect" id="node9" title=" " alt="" coords="2277,162,2432,189"/>
+<area shape="rect" id="node10" href="$Model_8h.html" title=" " alt="" coords="2456,162,2563,189"/>
+<area shape="rect" id="node36" href="$Matchers_8h.html" title=" " alt="" coords="1689,244,1775,271"/>
+<area shape="rect" id="node43" href="$FindSCMain_8h.html" title=" " alt="" coords="43,617,205,644"/>
+<area shape="rect" id="node11" href="$EntryFunctionContainer_8h.html" title="A container class to hold entry function information." alt="" coords="1638,543,1805,569"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1283,692,1330,719"/>
+<area shape="rect" id="node13" title=" " alt="" coords="2745,767,2799,793"/>
+<area shape="rect" id="node15" title=" " alt="" coords="793,767,943,793"/>
+<area shape="rect" id="node18" title=" " alt="" coords="2015,692,2073,719"/>
+<area shape="rect" id="node24" href="$EventContainer_8h.html" title="Container class to hold sc_event information." alt="" coords="2664,692,2784,719"/>
+<area shape="rect" id="node25" href="$FindGlobalEvents_8h.html" title=" " alt="" coords="2598,617,2733,644"/>
+<area shape="rect" id="node28" href="$FindNetlist_8h.html" title=" " alt="" coords="281,617,375,644"/>
+<area shape="rect" id="node29" href="$FindSimTime_8h.html" title=" " alt="" coords="981,617,1091,644"/>
+<area shape="rect" id="node30" href="$ModuleInstance_8h.html" title=" " alt="" coords="1759,393,1883,420"/>
+<area shape="rect" id="node42" href="$FindGPUMacro_8h.html" title=" " alt="" coords="667,617,850,644"/>
+<area shape="rect" id="node14" href="$FindNotify_8h.html" title=" " alt="" coords="400,617,491,644"/>
+<area shape="rect" id="node17" href="$SensitivityMatcher_8h.html" title=" " alt="" coords="1773,617,1912,644"/>
+<area shape="rect" id="node20" href="$FindWait_8h.html" title=" " alt="" coords="875,617,957,644"/>
+<area shape="rect" id="node21" href="$SuspensionAutomata_8h.html" title=" " alt="" coords="1491,617,1647,644"/>
+<area shape="rect" id="node22" href="$Utility_8h.html" title="A set of utility functions in the Utility class." alt="" coords="1494,692,1559,719"/>
+<area shape="rect" id="node16" title=" " alt="" coords="1080,767,1264,793"/>
+<area shape="rect" id="node19" title=" " alt="" coords="1743,692,1974,719"/>
+<area shape="rect" id="node23" title=" " alt="" coords="1369,767,1538,793"/>
+<area shape="rect" id="node26" href="$systemc-clang_8h.html" title=" " alt="" coords="2523,692,2639,719"/>
+<area shape="rect" id="node27" title=" " alt="" coords="2325,692,2448,719"/>
+<area shape="rect" id="node31" href="$FindConstructor_8h.html" title=" " alt="" coords="1435,468,1559,495"/>
+<area shape="rect" id="node32" href="$FindEntryFunctions_8h.html" title=" " alt="" coords="1859,468,2002,495"/>
+<area shape="rect" id="node33" href="$FindTLMInterfaces_8h.html" title=" " alt="" coords="1166,543,1309,569"/>
+<area shape="rect" id="node34" href="$InterfaceDecl_8h.html" title=" " alt="" coords="2952,543,3061,569"/>
+<area shape="rect" id="node35" href="$PortBinding_8h.html" title=" " alt="" coords="1685,468,1784,495"/>
+<area shape="rect" id="node37" href="$InstanceMatcher_8h.html" title=" " alt="" coords="2241,617,2370,644"/>
+<area shape="rect" id="node38" href="$CXXRecordDeclUtils_8h.html" title=" " alt="" coords="2097,692,2250,719"/>
+<area shape="rect" id="node39" href="$PortMatcher_8h.html" title=" " alt="" coords="1770,319,1873,345"/>
+<area shape="rect" id="node40" href="$FindEvents_8h.html" title=" " alt="" coords="1115,617,1213,644"/>
+<area shape="rect" id="node41" href="$FindTemplateParameters_8h.html" title=" " alt="" coords="1987,617,2165,644"/>
+<area shape="rect" id="node45" title=" " alt="" coords="3113,692,3170,719"/>
+<area shape="rect" id="node46" title=" " alt="" coords="3297,692,3351,719"/>
+<area shape="rect" id="node50" title=" " alt="" coords="3427,692,3501,719"/>
 </map>
