@@ -1,6 +1,10 @@
 <map id="src/cfg/SplitCFG.h" name="src/cfg/SplitCFG.h">
-<area shape="rect" id="node1" title=" " alt="" coords="156,5,285,32"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,80,116,107"/>
-<area shape="rect" id="node3" title=" " alt="" coords="140,80,301,107"/>
-<area shape="rect" id="node4" title=" " alt="" coords="326,80,486,107"/>
+<area shape="rect" id="node1" title=" " alt="" coords="309,5,438,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="98,80,209,107"/>
+<area shape="rect" id="node3" href="$SplitCFGBlock_8h.html" title=" " alt="" coords="233,80,351,107"/>
+<area shape="rect" id="node7" title=" " alt="" coords="375,80,537,107"/>
+<area shape="rect" id="node8" title=" " alt="" coords="561,80,721,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,162,152,189"/>
+<area shape="rect" id="node5" title=" " alt="" coords="177,162,407,189"/>
+<area shape="rect" id="node6" title=" " alt="" coords="432,155,635,196"/>
 </map>

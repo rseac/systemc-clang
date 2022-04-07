@@ -1,12 +1,12 @@
 <map id="src/cfg/SplitCFG.cpp" name="src/cfg/SplitCFG.cpp">
-<area shape="rect" id="node1" title=" " alt="" coords="723,5,866,32"/>
-<area shape="rect" id="node2" href="$SplitCFGBlock_8h.html" title=" " alt="" coords="354,80,473,107"/>
-<area shape="rect" id="node6" href="$SplitCFG_8h.html" title=" " alt="" coords="752,80,837,107"/>
-<area shape="rect" id="node10" title=" " alt="" coords="861,80,915,107"/>
-<area shape="rect" id="node3" title=" " alt="" coords="5,162,152,189"/>
-<area shape="rect" id="node4" title=" " alt="" coords="177,162,407,189"/>
-<area shape="rect" id="node5" title=" " alt="" coords="432,155,635,196"/>
-<area shape="rect" id="node7" title=" " alt="" coords="659,162,770,189"/>
-<area shape="rect" id="node8" title=" " alt="" coords="794,162,955,189"/>
-<area shape="rect" id="node9" title=" " alt="" coords="980,162,1140,189"/>
+<area shape="rect" id="node1" title=" " alt="" coords="359,5,502,32"/>
+<area shape="rect" id="node2" href="$SplitCFGBlock_8h.html" title=" " alt="" coords="233,155,351,181"/>
+<area shape="rect" id="node6" href="$SplitCFG_8h.html" title=" " alt="" coords="388,80,473,107"/>
+<area shape="rect" id="node10" title=" " alt="" coords="497,80,551,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,237,152,263"/>
+<area shape="rect" id="node4" title=" " alt="" coords="177,237,407,263"/>
+<area shape="rect" id="node5" title=" " alt="" coords="432,229,635,271"/>
+<area shape="rect" id="node7" title=" " alt="" coords="375,155,486,181"/>
+<area shape="rect" id="node8" title=" " alt="" coords="510,155,671,181"/>
+<area shape="rect" id="node9" title=" " alt="" coords="696,155,856,181"/>
 </map>
