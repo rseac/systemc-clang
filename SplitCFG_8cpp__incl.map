@@ -1,7 +1,8 @@
 <map id="src/cfg/SplitCFG.cpp" name="src/cfg/SplitCFG.cpp">
-<area shape="rect" id="node1" title=" " alt="" coords="349,5,491,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="395,5,538,32"/>
 <area shape="rect" id="node2" href="$SplitCFG_8h.html" title=" " alt="" coords="331,80,416,107"/>
 <area shape="rect" id="node10" title=" " alt="" coords="440,80,493,107"/>
+<area shape="rect" id="node11" title=" " alt="" coords="517,80,589,107"/>
 <area shape="rect" id="node3" title=" " alt="" coords="98,155,209,181"/>
 <area shape="rect" id="node4" href="$SplitCFGBlock_8h.html" title=" " alt="" coords="233,155,351,181"/>
 <area shape="rect" id="node8" title=" " alt="" coords="375,155,537,181"/>
