@@ -1,8 +1,12 @@
 <map id="systemc_hdl::HDLBody" name="systemc_hdl::HDLBody">
-<area shape="rect" id="node1" title=" " alt="" coords="544,114,701,141"/>
-<area shape="rect" id="node2" title=" " alt="" coords="205,5,385,47"/>
-<area shape="rect" id="node3" href="$classhnode_1_1newname__map__t.html" title=" " alt="" coords="220,71,371,112"/>
-<area shape="rect" id="node4" href="$classhnode_1_1name__serve.html" title=" " alt="" coords="5,78,140,105"/>
-<area shape="rect" id="node5" href="$classhnode_1_1hNode.html" title=" " alt="" coords="245,137,346,163"/>
-<area shape="rect" id="node6" href="$classhnode_1_1util.html" title=" " alt="" coords="255,187,335,214"/>
+<area shape="rect" id="node1" title=" " alt="" coords="932,167,1089,193"/>
+<area shape="rect" id="node2" title=" " alt="" coords="579,5,759,45"/>
+<area shape="rect" id="node3" href="$classhnode_1_1hfunc__name__map__t.html" title=" " alt="" coords="580,70,757,95"/>
+<area shape="rect" id="node4" href="$classhnode_1_1newname__map__t.html" title=" " alt="" coords="205,79,380,105"/>
+<area shape="rect" id="node5" href="$classhnode_1_1name__serve.html" title=" " alt="" coords="5,111,140,137"/>
+<area shape="rect" id="node6" href="$classhnode_1_1newname__map__t.html" title=" " alt="" coords="404,128,555,168"/>
+<area shape="rect" id="node7" href="$classhnode_1_1hNode.html" title=" " alt="" coords="618,198,719,223"/>
+<area shape="rect" id="node8" href="$classHDLType.html" title=" " alt="" coords="630,247,707,273"/>
+<area shape="rect" id="node9" href="$structHDLType_1_1usertype__info__t.html" title=" " alt="" coords="207,210,378,235"/>
+<area shape="rect" id="node10" href="$classhnode_1_1util.html" title=" " alt="" coords="253,279,333,305"/>
 </map>
